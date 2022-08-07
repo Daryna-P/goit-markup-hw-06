@@ -706,6 +706,9 @@ body {
 .agreement-cond {
     color: var(--active-link);
     cursor: pointer;
+    border-bottom: 1px solid currentColor;
+    display: inline-block;
+    line-height: 0.85;
 }
 .form-send-btn {
     align-self: center;
